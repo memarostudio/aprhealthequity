@@ -2,7 +2,7 @@
 
 Site: [https://healthequity.aprnetwork.org/](https://healthequity.aprnetwork.org/)
 
-This repository hosts all background and outro/join-us section videos used in the Webflow project. Videos are served via GitHub Pages to avoid Webflow’s native video limitations (file-size caps, compression, and forced playback controls). All videos are embedded in Webflow using custom HTML `<video>` elements inside code embeds.
+This repository hosts all background and outro/join-us section videos used in the Webflow project. Videos are hosted via GitHub Pages as static assets to be referenced directly in Webflow using custom HTML `<video>` elements inside code embeds.
 
 ---
 
